@@ -1,4 +1,4 @@
-vuetodos.netlify.com
+https://vuetodos.netlify.com/
 
 # vue_crash_todolist
 
