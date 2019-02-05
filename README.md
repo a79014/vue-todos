@@ -1,4 +1,4 @@
-https://agitated-clarke-5b63d2.netlify.com/#/
+vuetodos.netlify.com
 
 # vue_crash_todolist
 
