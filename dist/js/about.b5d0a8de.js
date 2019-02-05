@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(e,t,s){"use strict";s.r(t);var n=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,t=e.$createElement,s=e._self._c||t;return s("div",{staticClass:"about"},[s("h1",[e._v("About")]),s("p",[e._v("This is my version of the TodoList app from the Vue crash course 2019 by Traversy Media")])])}],a=s("2877"),o={},u=Object(a["a"])(o,n,r,!1,null,null,null);t["default"]=u.exports}}]);
+//# sourceMappingURL=about.b5d0a8de.js.map
