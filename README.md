@@ -1,3 +1,6 @@
+Just something I tried to do when I checked out Vue on YouTube. Very unfinished
+
+
 https://vuetodos.netlify.com/
 
 # vue_crash_todolist
